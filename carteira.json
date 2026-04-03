@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Tesouro Selic 2027",
+        "tipo": "Renda Fixa",
+        "ticker": null,
+        "valor_investido": 20000.00,
+        "taxa_anual": 0.1275
+    },
+    {
+        "nome": "CDB Banco XP",
+        "tipo": "Renda Fixa",
+        "ticker": null,
+        "valor_investido": 15000.00,
+        "taxa_anual": 0.13
+    },
+    {
+        "nome": "Petrobras PN",
+        "tipo": "Renda Variável",
+        "ticker": "PETR4.SA",
+        "valor_investido": 20000.00,
+        "taxa_anual": null
+    },
+    {
+        "nome": "Vale ON",
+        "tipo": "Renda Variável",
+        "ticker": "VALE3.SA",
+        "valor_investido": 15000.00,
+        "taxa_anual": null
+    },
+    {
+        "nome": "ETF Ibovespa (BOVA11)",
+        "tipo": "Renda Variável",
+        "ticker": "BOVA11.SA",
+        "valor_investido": 15000.00,
+        "taxa_anual": null
+    },
+    {
+        "nome": "Bitcoin",
+        "tipo": "Outros",
+        "ticker": "BTC-USD",
+        "valor_investido": 15000.00,
+        "taxa_anual": null
+    }
+]
