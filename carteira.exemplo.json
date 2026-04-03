@@ -1,0 +1,9 @@
+[
+    {
+        "nome": "Nome do ativo",
+        "tipo": "Renda Fixa",
+        "ticker": null,
+        "valor_investido": 20000.00,
+        "taxa_anual": 0.13
+    }
+]
