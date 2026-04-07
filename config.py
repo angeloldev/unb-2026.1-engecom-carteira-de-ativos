@@ -1,7 +1,7 @@
 import json
 
 CAPITAL_INICIAL = 100_000.0 # Utiliza _ apenas para separacão visual, o interpretador Python ignora-o completamente
-DATA_INICIO = "2025-02-01" # String para comunicar com as API's ao invés de um pd.datetime
+DATA_INICIO = "2026-02-01" # String para comunicar com as API's ao invés de um pd.datetime
 
 BENCHMARKS = {
     "selic": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.11/dados?formato=json",
