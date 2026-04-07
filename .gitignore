@@ -1,3 +1,4 @@
 .env
 carteira.json
-engecom/
+engecom
+__pycache__
