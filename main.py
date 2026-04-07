@@ -1,5 +1,5 @@
 # teste.py
-from data_collector import coletar_dados
+from src.data_collector import coletar_dados
 
 df_carteira, df_benchmarks = coletar_dados()
 

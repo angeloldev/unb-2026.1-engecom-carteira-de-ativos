@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import time
 from datetime import datetime, timedelta
-from config import CARTEIRA, DATA_INICIO, BENCHMARKS
+from src.config import CARTEIRA, DATA_INICIO, BENCHMARKS
 
 def buscar_renda_variavel(ativo, data_inicio):
     try:
